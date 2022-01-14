@@ -1,0 +1,11 @@
+main.c:98:6:rgbColorCode	16	static
+main.c:116:6:displayAlert	8	static
+main.c:136:6:playAlarmTone	24	static
+main.c:160:5:main	24	static
+main.c:290:6:SystemClock_Config	184	static
+main.c:362:13:MX_ADC1_Init	32	static
+main.c:418:13:MX_TIM1_Init	112	static
+main.c:511:13:MX_TIM2_Init	64	static
+main.c:570:13:MX_USART2_UART_Init	8	static
+main.c:605:13:MX_GPIO_Init	40	static
+main.c:640:6:Error_Handler	4	static,ignoring_inline_asm
